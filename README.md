@@ -1,3 +1,3 @@
-# university_website
+University Website using HTML, CSS and PHP
 
-https://karthikbhaskaran22.github.io/University_website/
+https://karthikbhaskaran22.github.io/UniversityWebsite/
